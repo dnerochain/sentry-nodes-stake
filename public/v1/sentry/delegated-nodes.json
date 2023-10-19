@@ -1,191 +1,44 @@
 [
   {
     "id": 1,
-    "name": "Your-Sentry-Node-Name",
-    "address": "0% fee - 0x-Your-sentry-node-address",
-    "node_summary": "0x----------Get-Your-sentry-node-summary-by-typing: dnerocli query sentry in the terminal",
+    "name": "Dnero StakePool",
+    "address": "0% fee - 0x949B4C4A72d5db825A1d1485CbB517f5C1428EC7",
+    "node_summary": "0x949B4C4A72d5db825A1d1485CbB517f5C1428EC7b95703661313245a3bea075c69a422168b1be3c9b9d32f274b5ee65d6bb9f2c3094f6dee4a0ca7851d52556653efd553a795569640f8e94c892399e93a07c97702fce9fc09b398f17a4217be422ad4ab64f9464470a85829d98b50e7158ed6a10cb93eb7dda8ef407b1eb845876e5d239a7c33e72f11be4ab1a262ec8d123f1ee742a8cfcf8a1f05c6c9a28c5bb58e638c9f5ddf10f8ee72bd5fd8f76f1631e6c606690cd29e67c11fca00fc59b657a627048a51ba0e2ca30fc23e6739325a8e449458fb1ff8fcbea75255d2836a3b5b01",
     "split_basis_point": 0
   },
   {
     "id": 2,
-    "name": "Your-Sentry-Node-Name",
-    "address": "0% fee - 0x-Your-sentry-node-address",
-    "node_summary": "0x-----------Get-Your-sentry-node-summary-by-typing: dnerocli query sentry in the terminal",
+    "name": "Dnero Protocol",
+    "address": "0% fee - 0x2af6ec8272Fa66Ad8cfF30e55454D214E54f16aC",
+    "node_summary": "0x2af6ec8272Fa66Ad8cfF30e55454D214E54f16aC94adc66684dbd92c6888ffc7abab5c197fb355c08e16be15ab120d96ee90dc3b8047a00f64ec88aee7af1a08322d021697ca748248cc097493cb4b8225a29fec02508ce589e28bb489ef0e10c2b02edb798d2a52f2ad27b6f42dc95ebb41ff3913bf74cf4c005669b6cd3ecf8dd342fbe1eea3fe54d26b5d3b200bbd008ca13b7f50b9f62ba8035143e7e525b114ac60f277ab251aa46624594953ea736e453423440f7e13b0ba0feafd4810c1786f4404c816586712e26cda4e4f13866eadd89c99fd287b56a358d129f4f3a18d052601",
     "split_basis_point": 0
   },
   {
     "id": 3,
-    "name": "Your-Sentry-Node-Name",
-    "address": "0% fee - 0x-Your-sentry-node-address",
-    "node_summary": "0x-----------Get-Your-sentry-node-summary-by-typing: dnerocli query sentry in the terminal",
+    "name": "Dnerochain-xyz",
+    "address": "0% fee - 0x278Cf34d00E1361cdEAc84e1DA2A48DF89067eE5",
+    "node_summary": "0x278Cf34d00E1361cdEAc84e1DA2A48DF89067eE58f98e952df2a7ad39e51f0d8a45daaa030f047eeb2e54d7468667f631e0944adb1705c284964b94c148fd07134737bbb86fedfbe34b108a328991edd99a91a2f8c5a8d15778931a76a3a1b1ac6a85ae404e443d8b14392f608c5e30c62ae07530db0e3abb976bbae23045bf4b72fd1eabdec67258a49e2f80e3b59ab0e941e376bc8b0ed29f0276b17444504aa244de582af3293d3290ce1f7a6b1a641f297b8925e5be80de58f290e6113828663c2773b65ab879b6c9b232c9649c403a68a5ac41eb55d6f13139f86996ff3e22247ae00",
     "split_basis_point": 0
   },
   {
     "id": 4,
-    "name": "Your-Sentry-Node-Name",
-    "address": "0% fee - 0x-Your-sentry-node-address",
-    "node_summary": "0x-----------Get-Your-sentry-node-summary-by-typing: dnerocli query sentry in the terminal",
+    "name": "Dnero Delegator",
+    "address": "0% fee - 0x32e661FdC2cef6431a2DCBE8fB90Aa458F235eA4",
+    "node_summary": "0x32e661FdC2cef6431a2DCBE8fB90Aa458F235eA499cf6a04aea78f140a8a1179dd0706c9cf1bfce5c623ee93b29035abc617b9669ee39b299bbf0064e8ae5be2d89d2838805d937e5a10816360a82fe29531ab3c969458ae44b0196c40d0a0b547e55a7ebc446c7ebe868dff0ae6bcbaee042e360e74adb472accbba751db541ab25b3ba6649f00ed0fd71ba9632e7a91f0fd89e86551b050b547a379f3834b17da7774cca4d71ded907541521380cc93ede0efbf4e228df33ab95b774f98506741f59ab52b58e65f596945b52d44034e22f68581c02994248f8b30e4e5f67f4e151552300",
     "split_basis_point": 0
   },
   {
     "id": 5,
-    "name": "Your-Sentry-Node-Name",
-    "address": "0% fee - 0x-Your-sentry-node-address",
-    "node_summary": "0x-----------Get-Your-sentry-node-summary-by-typing: dnerocli query sentry in the terminal",
+    "name": "Dnero DPool",
+    "address": "0% fee - 0x8d3b2915E3660B0636E9696ed0cE52E9499fF621",
+    "node_summary": "0x8d3b2915E3660B0636E9696ed0cE52E9499fF62193b4630128f5a8b15a56291911d131637cfbe4832ba6daf9cbb65d465e7d12dd463fdd500a1eedc8152b409e5b91658fb126c9fa4e2b418b19b5c05a612dd885e6a82e7f960ecd1a50959b91e99bc9c958b3bf526e3793d2e2551d94b396fa8e18a0fc9813a2469db0cf8f54705806c3f030f59b4073478f424f2838d8fcf096022a17acebafe0e2d631f0c31e19d351278d293ebccf31c193448e3f33b9e2eb13a22fa3f3ac1236f7a3d8ade56af9584bd760c6e79887fec249c366b0b02d98ba5375b203756fdca45a5d1761b2622600",
     "split_basis_point": 0
   },
   {
     "id": 6,
-    "name": "Your-Sentry-Node-Name",
+    "name": "Muroko-Dev Pool",
     "address": "1% fee - 0x-Your-sentry-node-address",
     "node_summary": "0x-----------Get-Your-sentry-node-summary-by-typing: dnerocli query sentry in the terminal",
     "split_basis_point": 100
-  },
-  {
-    "id": 7,
-    "name": "Your-Sentry-Node-Name",
-    "address": "1% fee - 0x-Your-sentry-node-address",
-    "node_summary": "0x-----------Get-Your-sentry-node-summary-by-typing: dnerocli query sentry in the terminal",
-    "split_basis_point": 100
-  },
-  {
-    "id": 8,
-    "name": "Your-Sentry-Node-Name",
-    "address": "1% fee - 0x-Your-sentry-node-address",
-    "node_summary": "0x-----------Get-Your-sentry-node-summary-by-typing: dnerocli query sentry in the terminal",
-    "split_basis_point": 100
-  },
-  {
-    "id": 9,
-    "name": "Your-Sentry-Node-Name",
-    "address": "1% fee - 0x-Your-sentry-node-address",
-    "node_summary": "0x-----------Get-Your-sentry-node-summary-by-typing: dnerocli query sentry in the terminal",
-    "split_basis_point": 100
-  },
-  {
-    "id": 10,
-    "name": "Your-Sentry-Node-Name",
-    "address": "1% fee - 0x-Your-sentry-node-address",
-    "node_summary": "0x-----------Get-Your-sentry-node-summary-by-typing: dnerocli query sentry in the terminal",
-    "split_basis_point": 100
-  },
-  {
-    "id": 11,
-    "name": "Your-Sentry-Node-Name",
-    "address": "1% fee - 0x-Your-sentry-node-address",
-    "node_summary": "0x-----------Get-Your-sentry-node-summary-by-typing: dnerocli query sentry in the terminal",
-    "split_basis_point": 100
-  },
-  {
-    "id": 12,
-    "name": "Your-Sentry-Node-Name",
-    "address": "1% fee - 0x-Your-sentry-node-address",
-    "node_summary": "0x-----------Get-Your-sentry-node-summary-by-typing: dnerocli query sentry in the terminal",
-    "split_basis_point": 100
-  },
-  {
-    "id": 13,
-    "name": "Your-Sentry-Node-Name",
-    "address": "2% fee - 0x-Your-sentry-node-address",
-    "node_summary": "0x-----------Get-Your-sentry-node-summary-by-typing: dnerocli query sentry in the terminal",
-    "split_basis_point": 200
-  },
-  {
-    "id": 14,
-    "name": "Your-Sentry-Node-Name",
-    "address": "2% fee - 0x-Your-sentry-node-address",
-    "node_summary": "0x-----------Get-Your-sentry-node-summary-by-typing: dnerocli query sentry in the terminal",
-    "split_basis_point": 200
-  },
-  {
-    "id": 15,
-    "name": "Your-Sentry-Node-Name",
-    "address": "2% fee - 0x-Your-sentry-node-address",
-    "node_summary": "0x-----------Get-Your-sentry-node-summary-by-typing: dnerocli query sentry in the terminal",
-    "split_basis_point": 200
-  },
-  {
-    "id": 16,
-    "name": "Your-Sentry-Node-Name",
-    "address": "2% fee - 0x-Your-sentry-node-address",
-    "node_summary": "0x-----------Get-Your-sentry-node-summary-by-typing: dnerocli query sentry in the terminal",
-    "split_basis_point": 200
-  },
-  {
-    "id": 17,
-    "name": "Your-Sentry-Node-Name",
-    "address": "3% fee - 0x-Your-sentry-node-address",
-    "node_summary": "0x-----------Get-Your-sentry-node-summary-by-typing: dnerocli query sentry in the terminal",
-    "split_basis_point": 300
-  },
-  {
-    "id": 18,
-    "name": "Your-Sentry-Node-Name",
-    "address": "3% fee - 0x-Your-sentry-node-address",
-    "node_summary": "0x-----------Get-Your-sentry-node-summary-by-typing: dnerocli query sentry in the terminal",
-    "split_basis_point": 300
-  },
-  {
-    "id": 19,
-    "name": "Your-Sentry-Node-Name",
-    "address": "3% fee - 0x-Your-sentry-node-address",
-    "node_summary": "0x-----------Get-Your-sentry-node-summary-by-typing: dnerocli query sentry in the terminal",
-    "split_basis_point": 300
-  },
-  {
-    "id": 20,
-    "name": "Your-Sentry-Node-Name",
-    "address": "3% fee - 0x-Your-sentry-node-address",
-    "node_summary": "0x-----------Get-Your-sentry-node-summary-by-typing: dnerocli query sentry in the terminal",
-    "split_basis_point": 300
-  },
-  {
-    "id": 21,
-    "name": "Your-Sentry-Node-Name",
-    "address": "4% fee - 0x-Your-sentry-node-address",
-    "node_summary": "0x-----------Get-Your-sentry-node-summary-by-typing: dnerocli query sentry in the terminal",
-    "split_basis_point": 400
-  },
-  {
-    "id": 22,
-    "name": "Your-Sentry-Node-Name",
-    "address": "4% fee - 0x-Your-sentry-node-address",
-    "node_summary": "0x-----------Get-Your-sentry-node-summary-by-typing: dnerocli query sentry in the terminal",
-    "split_basis_point": 400
-  },
-  {
-    "id": 23,
-    "name": "Your-Sentry-Node-Name",
-    "address": "4% fee - 0x-Your-sentry-node-address",
-    "node_summary": "0x-----------Get-Your-sentry-node-summary-by-typing: dnerocli query sentry in the terminal",
-    "split_basis_point": 400
-  },
-  {
-    "id": 24,
-    "name": "Your-Sentry-Node-Name",
-    "address": "5% fee - 0x-Your-sentry-node-address",
-    "node_summary": "0x-----------Get-Your-sentry-node-summary-by-typing: dnerocli query sentry in the terminal",
-    "split_basis_point": 500
-  },
-  {
-    "id": 25,
-    "name": "Your-Sentry-Node-Name",
-    "address": "5% fee - 0x-Your-sentry-node-address",
-    "node_summary": "0x-----------Get-Your-sentry-node-summary-by-typing: dnerocli query sentry in the terminal",
-    "split_basis_point": 500
-  },
-  {
-    "id": 26,
-    "name": "Your-Sentry-Node-Name",
-    "address": "5% fee - 0x-Your-sentry-node-address",
-    "node_summary": "0x-----------Get-Your-sentry-node-summary-by-typing: dnerocli query sentry in the terminal",
-    "split_basis_point": 500
-  },
-  {
-    "id": 27,
-    "name": "Your-Sentry-Node-Name",
-    "address": "5% fee - 0x-Your-sentry-node-address",
-    "node_summary": "0x-----------Get-Your-sentry-node-summary-by-typing: dnerocli query sentry in the terminal",
-    "split_basis_point": 500
   }
 ]
