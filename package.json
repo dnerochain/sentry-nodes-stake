@@ -1,5 +1,5 @@
 {
-  "name": "sentry-nodes-stake",
+  "name": "sentry-stake-api",
   "version": "1.0.0",
   "description": "A Simple NodeJs and ExpressJS Static Pages Web Server",
   "scripts": {

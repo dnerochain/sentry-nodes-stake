@@ -33,12 +33,5 @@
     "address": "0% fee - 0x8d3b2915E3660B0636E9696ed0cE52E9499fF621",
     "node_summary": "0x8d3b2915E3660B0636E9696ed0cE52E9499fF62193b4630128f5a8b15a56291911d131637cfbe4832ba6daf9cbb65d465e7d12dd463fdd500a1eedc8152b409e5b91658fb126c9fa4e2b418b19b5c05a612dd885e6a82e7f960ecd1a50959b91e99bc9c958b3bf526e3793d2e2551d94b396fa8e18a0fc9813a2469db0cf8f54705806c3f030f59b4073478f424f2838d8fcf096022a17acebafe0e2d631f0c31e19d351278d293ebccf31c193448e3f33b9e2eb13a22fa3f3ac1236f7a3d8ade56af9584bd760c6e79887fec249c366b0b02d98ba5375b203756fdca45a5d1761b2622600",
     "split_basis_point": 0
-  },
-  {
-    "id": 6,
-    "name": "Muroko-Dev Pool",
-    "address": "1% fee - 0x-Your-sentry-node-address",
-    "node_summary": "0x-----------Get-Your-sentry-node-summary-by-typing: dnerocli query sentry in the terminal",
-    "split_basis_point": 100
   }
 ]
